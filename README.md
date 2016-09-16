@@ -2,4 +2,4 @@
 
 ## NASA | Astronomy Picture of the Day
 
-![NASA Astronomy Picture of the Day Application Thumbnail]()
+![NASA Astronomy Picture of the Day Application Thumbnail](./images/nasa.png)
