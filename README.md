@@ -1,6 +1,7 @@
 # PROJECTS
 
 
+
 ## NASA's Astronomy Picture of the Day 
 
 ![NASA Astronomy Picture of the Day Application Thumbnail](./images/nasa.png)
@@ -8,6 +9,7 @@
 I used NASA's Astronomy Picture of the Day [API](https://apod.nasa.gov/apod/lib/about_apod.html) for this application. It relies on jQuery for the AJAX calls and for toggling the info and HD photo options, and the moment.js library for the date change functionality.
 
 ### [Demo](https://berraknil.github.io/nasa-apod) &  [Source](https://www.github.com/berraknil/nasa-apod) 
+
 
 
 ## Weather Application
@@ -29,6 +31,8 @@ This Wikipedia search engine fetches results from the MediaWiki API by using the
 
 
 
+
+
 ## Markdown Preview
 
 ![Markdown Preview Thumbnail](./images/markdown.png)
@@ -36,3 +40,13 @@ This Wikipedia search engine fetches results from the MediaWiki API by using the
 I built this markdown preview application using React and Remarkable libraries. It has a built in ES6 template literal to show a sample text written with markdown on first load. This application only supports desktop and tablet layouts for the time being.
 
 ### [Demo](https://berraknil.github.io/markdown-viewer/) &  [Source](https://www.github.com/berraknil/markdown-viewer)
+
+
+## Pomodoro Timer
+
+![Pomodoro Timer Thumbnail](./images/pomodoro.png)
+
+This is a Pomodoro timer that is built with pure JavaScript. It is possible to change the duration of the Pomodoro and break times or restart the timers.
+
+### [Demo](https://berraknil.github.io/pomodoro-app/) &  [Source](https://www.github.com/berraknil/pomodoro-app)
+
