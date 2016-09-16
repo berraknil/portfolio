@@ -1,2 +1,3 @@
-# portfolio
-You can find my project samples here
+# PROJECTS
+
+### You can find my project samples here
