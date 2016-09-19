@@ -18,7 +18,7 @@ I used NASA's Astronomy Picture of the Day [API](https://apod.nasa.gov/apod/lib/
 ### [Demo](https://berraknil.github.io/nasa-apod) &  [Source](https://www.github.com/berraknil/nasa-apod) 
 
 
-## Markdown Preview (React, Remarkable, ES6)
+## Markdown Preview (React, Remarkable)
 
 ![Markdown Preview Thumbnail](./images/markdown.png)
 
