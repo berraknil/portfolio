@@ -1,6 +1,6 @@
 #  PROJECTS
 
-## Spotify Search (built with React) 
+## Spotify Search (built with React, SASS, ES6) 
 
 ![Spotify Search Application Thumbnail](./images/spotify.png)
 
@@ -9,7 +9,7 @@ I used the Spotify Web API for this application. It is built using React and sty
 ### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
 
 
-## Astronomy Picture of the Day 
+## Astronomy Picture of the Day (jQuery, AJAX)
 
 ![Astronomy Picture of the Day Application Thumbnail](./images/nasa.png)
 
@@ -18,8 +18,16 @@ I used NASA's Astronomy Picture of the Day [API](https://apod.nasa.gov/apod/lib/
 ### [Demo](https://berraknil.github.io/nasa-apod) &  [Source](https://www.github.com/berraknil/nasa-apod) 
 
 
+## Markdown Preview (React, Remarkable, ES6)
 
-## Weather Application
+![Markdown Preview Thumbnail](./images/markdown.png)
+
+I built this markdown preview application using React and the additional Remarkable component. It has a built in ES6 template literal to show a sample text written with markdown on first load. This application only supports desktop and tablet layouts for the time being.
+
+### [Demo](https://berraknil.github.io/markdown-viewer/) &  [Source](https://www.github.com/berraknil/markdown-viewer)
+
+
+## Weather Application (jQuery, AJAX)
 
 ![Weather Application Thumbnail](./images/weather.png)
 
@@ -28,7 +36,7 @@ This application fetches forecast from the Weather Underground API and uses IP b
 ### [Demo](https://codepen.io/berrak/full/54326c4b889b853402a56ae0531280bd/) &  [Source](https://www.github.com/berraknil/weather-app) 
 
 
-## Wikipedia Search
+## Wikipedia Search (jQuery, AJAX)
 
 ![Wikipedia Search Thumbnail](./images/wikipedia.png)
 
@@ -38,18 +46,7 @@ This Wikipedia search engine fetches results from the MediaWiki API by using the
 
 
 
-
-
-## Markdown Preview
-
-![Markdown Preview Thumbnail](./images/markdown.png)
-
-I built this markdown preview application using React and Remarkable libraries. It has a built in ES6 template literal to show a sample text written with markdown on first load. This application only supports desktop and tablet layouts for the time being.
-
-### [Demo](https://berraknil.github.io/markdown-viewer/) &  [Source](https://www.github.com/berraknil/markdown-viewer)
-
-
-## Pomodoro Timer
+## Pomodoro Timer (Javascript)
 
 ![Pomodoro Timer Thumbnail](./images/pomodoro.png)
 
