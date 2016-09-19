@@ -1,5 +1,12 @@
-# PROJECTS
+#  PROJECTS
 
+## Spotify Search (built with React) 
+
+![Spotify Search Application Thumbnail](./images/spotify.png)
+
+I used the Spotify Web API for this application. It is built using React and styled with SASS. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
+
+### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
 
 
 ## Astronomy Picture of the Day 
