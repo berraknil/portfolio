@@ -1,13 +1,5 @@
 #  PROJECTS
 
-## Spotify Search (built with React, SASS, ES6) 
-
-![Spotify Search Application Thumbnail](./images/spotify.png)
-
-I used the Spotify Web API for this application. Built with React and styled with SASS. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
-
-### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
-
 
 ## Twitch Clone (built with React, React-Router, React-Bootstrap) 
 
@@ -16,6 +8,15 @@ I used the Spotify Web API for this application. Built with React and styled wit
 I used the Twitch (Kraken) Web API for this application. Built with React, using React-Router for directory routing and styled with React-Bootstrap. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
 
 ### [Demo](http://twitch-clone.herokuapp.com/) &  [Source](https://www.github.com/berraknil/twitch-clone) 
+
+
+## Spotify Search (built with React, SASS, ES6) 
+
+![Spotify Search Application Thumbnail](./images/spotify.png)
+
+I used the Spotify Web API for this application. Built with React and styled with SASS. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
+
+### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
 
 ## Astronomy Picture of the Day (jQuery, AJAX)
 
