@@ -15,7 +15,7 @@ Fetching data from the WordPress REST API for the Menu, About and Contact pages.
 
 Built as a small multi-page project to start using React-Router v4 instead of v3. All text is taken from Wikipeda and images from Pixabay. Deployed using Zeit's Now.
 
-### [Demo](https://github.com/berraknil/perspectives) &  [Source](https://github.com/berraknil/perspectives) 
+### [Demo](https://perspectives-gzfmewkdom.now.sh/) &  [Source](https://github.com/berraknil/perspectives) 
 
 
 ## Twitch Clone (built with React, React-Router, React-Bootstrap) 
