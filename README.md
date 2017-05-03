@@ -1,5 +1,22 @@
 #  PROJECTS
 
+## The Coffee Place (built with React, Redux, Redux-Promise, React-Router v4, Wordpress REST API, Axios) 
+
+![The Coffee Place Thumbnail](./images/the-coffee-place.png)
+
+Fetching data from the WordPress REST API for the Menu, About and Contact pages. Using Axios for API calls, redux-promise as the Redux middleware to resolve promises and React-Router-Dom (new in React-Router v4) for routing. Deployed using Zeit's Now. Background video taken from [coverr.co](https://coverr.co/)
+
+### [Demo](https://the-coffee-place-pajodvsprm.now.sh/) &  [Source](https://github.com/berraknil/the-coffee-place) 
+
+
+## Perspectives (built with React and React-Router v4) 
+
+![Perspectives Thumbnail](./images/perspectives.png)
+
+Built as a small multi-page project to start using React-Router v4 instead of v3. All text is taken from Wikipeda and images from Pixabay. Deployed using Zeit's Now.
+
+### [Demo](https://github.com/berraknil/perspectives) &  [Source](https://github.com/berraknil/perspectives) 
+
 
 ## Twitch Clone (built with React, React-Router, React-Bootstrap) 
 
