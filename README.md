@@ -1,6 +1,6 @@
 #  PROJECTS
 
-## The Coffee Place (built with React, Redux, Redux-Promise, React-Router v4, Wordpress REST API, Axios) 
+## The Coffee Place (built with React, Redux, Redux-Promise, React-Router v4, WordPress REST API, Axios) 
 
 ![The Coffee Place Thumbnail](./images/the-coffee-place.png)
 
