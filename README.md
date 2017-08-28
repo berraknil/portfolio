@@ -26,15 +26,6 @@ I used the Twitch (Kraken) Web API for this application. Built with React, using
 
 ### [Demo](http://twitch-clone.herokuapp.com/) &  [Source](https://www.github.com/berraknil/twitch-clone) 
 
-
-## Spotify Search (built with React, SASS, ES6) 
-
-![Spotify Search Application Thumbnail](./images/spotify.png)
-
-I used the Spotify Web API for this application. Built with React and styled with SASS. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
-
-### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
-
 ## Astronomy Picture of the Day (jQuery, AJAX)
 
 ![Astronomy Picture of the Day Application Thumbnail](./images/nasa.png)
@@ -71,6 +62,13 @@ This Wikipedia search engine fetches results from the MediaWiki API by using the
 ### [Demo](https://berraknil.github.io/wikipedia-viewer) &  [Source](https://www.github.com/berraknil/wikipedia-viewer) 
 
 
+## Spotify Search (built with React, SASS, ES6) 
+
+![Spotify Search Application Thumbnail](./images/spotify.png)
+
+I used the Spotify Web API for this application. Built with React and styled with SASS. [Axios HTTP client](https://www.npmjs.com/package/axios) is used for the AJAX calls. 
+
+### [Demo](https://berraknil.github.io/spotify-react) &  [Source](https://www.github.com/berraknil/spotify-react) 
 
 ## Pomodoro Timer (Javascript)
 
