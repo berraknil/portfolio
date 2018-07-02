@@ -1,12 +1,33 @@
 #  PROJECTS
 
+
+## Soundminer Alloy (built with React, Redux, Web Audio API, Redux-Promise-Middleware, React-Router v4, Formik, Axios) 
+
+![Soundminer Alloy](./images/smartmockups_jj46f83f.png)
+
+Fetching data from the WordPress REST API for the Menu, About and Contact pages. Using Axios for API calls, redux-promise as the Redux middleware to resolve promises and React-Router-Dom (new in React-Router v4) for routing. Deployed using Zeit's Now. Background video taken from [coverr.co](https://coverr.co/)
+
+ Alloy is a customizable and distributable web based search app that enables Soundminer users to access and
+ use their audio files and playlists on the cloud. The project itself required a fast and easy to use UI combined
+ with complete control of the backend API. 
+        
+ As the main frontend developer on Alloy, I designed and implemented the UI, was responsible for features such
+ as text search, facet search/tag filtering, creating an audio waveform visualizer for the currently playing
+ audio track, creation and manipulation of user playlists, with features such as downloading, deleting and
+ adding tracks to the playlists and many more.
+           
+ The project is built with React, Redux and React-Router v4 among many other modern web technologies, and was
+ a project that enabled me to merge my two passions, audio and UI development. 
+
+### [More Info](https://soundchute.com/)
+
+
 ## The Coffee Place (built with React, Redux, Redux-Promise, React-Router v4, WordPress REST API, Axios) 
 
 ![The Coffee Place Thumbnail](./images/the-coffee-place.png)
 
 Fetching data from the WordPress REST API for the Menu, About and Contact pages. Using Axios for API calls, redux-promise as the Redux middleware to resolve promises and React-Router-Dom (new in React-Router v4) for routing. Deployed using Zeit's Now. Background video taken from [coverr.co](https://coverr.co/)
 
-### Demo is under construction as I am moving the WordPress install to another hosting 
 ### [Demo](https://the-coffee-place-hetzshtewc.now.sh/) & [Source](https://github.com/berraknil/the-coffee-place) 
 
 ## Perspectives (built with React and React-Router v4) 
