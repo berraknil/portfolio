@@ -1,3 +1,5 @@
+## For a detailed list of skills and resume please visit my [website](https://berraknil.github.io/)
+
 #  PROJECTS
 
 
